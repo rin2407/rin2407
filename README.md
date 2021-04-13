@@ -1,3 +1,6 @@
+
+## A Developer (PHP,JAVASCRIPT,REACTJS) <br> Currently learning management and working as a Javascript developer 
+
 ### Contact me
                   
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.rin.7737/)
